@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Self-learning-Record">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/v2rayn.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SSR-Windows.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

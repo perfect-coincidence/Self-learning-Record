@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dist/src/PA2J/PA2J.iml" filepath="$PROJECT_DIR$/dist/src/PA2J/PA2J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dist/src/PA3J/PA3J.iml" filepath="$PROJECT_DIR$/dist/src/PA3J/PA3J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dist/src/PA4J/PA4J.iml" filepath="$PROJECT_DIR$/dist/src/PA4J/PA4J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dist/src/PA5J/PA5J.iml" filepath="$PROJECT_DIR$/dist/src/PA5J/PA5J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Self-learning-Record.iml" filepath="$PROJECT_DIR$/.idea/Self-learning-Record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dist/assignments/assignments.iml" filepath="$PROJECT_DIR$/dist/assignments/assignments.iml" />
+    </modules>
+  </component>
+</project>
